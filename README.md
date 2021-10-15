@@ -1,6 +1,6 @@
 # cash_app
 
-A new Flutter project.
+Dasar Flutter UI Slicing Landing Page Cashy App
 
 ## Getting Started
 
